@@ -41,20 +41,20 @@
 * [**답변이 포함된** 객체 지향 설계 면접 질문들](#object-oriented-design-interview-questions-with-solutions)
 * [추가 시스템 설계 면접 질문들](#additional-system-design-interview-questions)
 
-## Anki flashcards
+## 플래시 카드식 암기
 
 <p align="center">
   <img src="http://i.imgur.com/zdCAkB3.png"/>
   <br/>
 </p>
 
-The provided [Anki flashcard decks](https://apps.ankiweb.net/) use spaced repetition to help you retain key system design concepts.
+제공된 [Anki flashcard decks](https://apps.ankiweb.net/)는 주기적인 반복 학습을 이용하여 주요 시스템 설계 개념들을 기억할 수 있도록 도와줍니다.
 
-* [System design deck](https://github.com/donnemartin/system-design-primer/tree/master/resources/flash_cards/System%20Design.apkg)
-* [System design exercises deck](https://github.com/donnemartin/system-design-primer/tree/master/resources/flash_cards/System%20Design%20Exercises.apkg)
-* [Object oriented design exercises deck](https://github.com/donnemartin/system-design-primer/tree/master/resources/flash_cards/OO%20Design.apkg)
+* [시스템 설계 카드 묶음](https://github.com/donnemartin/system-design-primer/tree/master/resources/flash_cards/System%20Design.apkg)
+* [시스템 설계 예제 카드 묶음](https://github.com/donnemartin/system-design-primer/tree/master/resources/flash_cards/System%20Design%20Exercises.apkg)
+* [객체 지향 설계 예제 묶음](https://github.com/donnemartin/system-design-primer/tree/master/resources/flash_cards/OO%20Design.apkg)
 
-Great for use while on-the-go.
+영어 단어 암기장처럼 돌아다니면서 사용하기 좋습니다.
 
 ### Coding Resource: Interactive Coding Challenges
 
