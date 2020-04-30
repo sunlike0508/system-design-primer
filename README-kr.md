@@ -406,16 +406,16 @@ Keep in mind that **everything is a trade-off**.
 
 Then we'll dive into more specific topics such as DNS, CDNs, and load balancers.
 
-## Performance vs scalability
+## 성능 vs 확장성
 
-A service is **scalable** if it results in increased **performance** in a manner proportional to resources added. Generally, increasing performance means serving more units of work, but it can also be to handle larger units of work, such as when datasets grow.<sup><a href=http://www.allthingsdistributed.com/2006/03/a_word_on_scalability.html>1</a></sup>
+자원이 추가되면서 **성능**이 향상될 경우, 그 서비스는 **확장**이 가능하다고 할 수 있다. 대개 성능이 향상되었다는 것은 더 많은 일을 할 수 있다는 것을 의미 하며, 데이터셋이 커지는 경우 같이 더 큰 단위의 일 다룰 수 있다.<sup><a href=http://www.allthingsdistributed.com/2006/03/a_word_on_scalability.html>1</a></sup>
 
-Another way to look at performance vs scalability:
+성능 vs 확장성을 보는 또 다른 관점:
 
-* If you have a **performance** problem, your system is slow for a single user.
-* If you have a **scalability** problem, your system is fast for a single user but slow under heavy load.
+* **성능** 문제가 있는 경우, 단일 사용자에 대해서 시스템 속도가 느린 경우이다.
+* **확장성**에 문제가 있는 경우, 단일 사용자 에 대해선 속도가 빠르겠지만, 부하가 많을 땐 느릴 것이다.
 
-### Source(s) and further reading
+### 더 읽을 거리
 
 * [A word on scalability](http://www.allthingsdistributed.com/2006/03/a_word_on_scalability.html)
 * [Scalability, availability, stability, patterns](http://www.slideshare.net/jboner/scalability-availability-stability-patterns/)
@@ -1828,7 +1828,7 @@ My contact info can be found on my [GitHub page](https://github.com/donnemartin)
 *I am providing code and resources in this repository to you under an open source license.  Because this is my personal repository, the license you receive to my code and resources is from me and not my employer (Facebook).*
 
     Copyright 2017 Donne Martin
-
+    
     Creative Commons Attribution 4.0 International License (CC BY 4.0)
-
+    
     http://creativecommons.org/licenses/by/4.0/
