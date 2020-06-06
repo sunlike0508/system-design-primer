@@ -420,7 +420,7 @@ Another way to look at 퍼포먼스 vs 스칼라빌리티:
 * [A word on scalability](http://www.allthingsdistributed.com/2006/03/a_word_on_scalability.html)
 * [Scalability, availability, stability, patterns](http://www.slideshare.net/jboner/scalability-availability-stability-patterns/)
 
-## 래이턴시 vs 쓰루풋
+## 지연 vs 처리량
 
 **Latency** is the time to perform some action or to produce some result.
 
