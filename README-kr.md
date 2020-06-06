@@ -406,11 +406,12 @@ Keep in mind that **everything is a trade-off**.
 
 Then we'll dive into more specific topics such as DNS, CDNs, and load balancers.
 
-## 성능 vs 확장성
+
+## 퍼포먼스 vs 스칼라빌리티
 
 A service is **scalable** if it results in increased **performance** in a manner proportional to resources added. Generally, increasing performance means serving more units of work, but it can also be to handle larger units of work, such as when datasets grow.<sup><a href=http://www.allthingsdistributed.com/2006/03/a_word_on_scalability.html>1</a></sup>
 
-Another way to look at performance vs scalability:
+Another way to look at 퍼포먼스 vs 스칼라빌리티:
 
 * If you have a **performance** problem, your system is slow for a single user.
 * If you have a **scalability** problem, your system is fast for a single user but slow under heavy load.
